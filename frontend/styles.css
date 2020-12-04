@@ -1,0 +1,61 @@
+/* header styles */
+/*
+header, nav, header div {
+  display: flex;
+  align-items: center;
+}
+
+header, nav {
+  justify-content: space-around;
+}
+
+header {
+  background-color: #E6E6FA;
+  position: sticky;
+  top: 0;
+  height: 15vh;
+}
+
+header img {
+  margin: 0px;
+  margin-right: 1.5vw;
+  height: 8vh;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 2vw;
+  font-size: 50px;
+}
+
+nav input {
+  height: 35px;
+  width: 35vw;
+}
+
+button {
+  font-weight: bold;
+  font-size: 1vw;
+  margin: 1%;
+  width: 20%;
+  cursor: pointer;
+  text-align: center;
+}
+
+body{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+*/
+
+h1 {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.lead {
+  text-align: center;
+}
+
+.form-control, btn-default{
+  margin-top: 50px;
+}
